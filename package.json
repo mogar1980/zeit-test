@@ -9,5 +9,8 @@
     "express": "^4.16.2",
     "mysql": "^2.15.0"
   },
+  "scripts": {
+    "start": "node app.js"
+  },
   "devDependencies": {}
 }
