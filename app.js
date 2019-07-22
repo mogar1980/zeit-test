@@ -129,7 +129,7 @@ document.addEventListener("DOMContentLoaded", function(event){
 </script>
 
 <div>
-  <span class="t1" id="title-area">Zeit Hit Counter Application</span>
+  <span class="t1" id="title-area">Cloud Build Hit Counter Application</span>
 </div>
 <div id="hit-area">
   <span class="t1">Number of Hits: </span> <span class="t1" id="text-label">TBD</span>
